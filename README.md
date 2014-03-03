@@ -8,14 +8,14 @@ Info
 
 Version: 1.0    
 Author: Mark Topper    
-Website: www.webman.io
+Website: [www.webman.io](https://www.webman.io)
 
 Usage
 ====================
 
-- Include "WideImage Library"
-- Include "function.smartcrop.php"
-- You are ready to use the function
+1. Include ["WideImage Library"](http://wideimage.sourceforge.net/)
+2. Include ["function.smartcrop.php"](https://github.com/marktopper/Smart-Crop-WideImage/blob/master/function.smartcrop.php)
+3. You are ready to [use the function](#function-usage)
 
 Function Usage
 ====================
@@ -52,4 +52,4 @@ Support
 ====================
 
 Please report bugs here on github    
-You can contact me on mail@webman.io
+You can contact me on [mail@webman.io](mailto:mail@webman.io)
