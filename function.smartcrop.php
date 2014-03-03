@@ -2,7 +2,7 @@
 
 /* **********
 *
-* Name: Smart Crop
+* Name: SmartCrop
 * Description: This function requires the WideImage Library to be included.
 * Author: Mark Topper
 * Website: http://www.webman.io/
