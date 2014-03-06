@@ -34,7 +34,7 @@ function smart_crop($file,$saveAs=NULL,$width=100,$height=100)
 		$new_w = $width*(1+($new_w_percent-100));
 		$new_h = $height*(1+($new_h_percent-100));
 		$img = $img->resize($new_w, $new_h, 'inside');
-		$img = $img->crop("center", "middle", $width, 108);
+		$img = $img->crop("center", "middle", $width, $height);
 	}else {
 		// One of them is smaller than 100% of the allowed size
 		if ($wpercent > $hpercent) {
