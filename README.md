@@ -57,4 +57,4 @@ You can contact me on [mail@webman.io](mailto:mail@webman.io)
 
 
 ### Thanks to
-1. ["Matteo"](https://github.com/matteomartinelli) - Important bug fix
+- ["Matteo"](https://github.com/matteomartinelli) - Important bug fix
