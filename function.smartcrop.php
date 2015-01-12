@@ -2,7 +2,7 @@
 
 /* **********
 *
-* Name: smartcrop
+* Name: smart_crop
 * Description: This function requires the WideImage Library to be included.
 * Author: Mark Topper
 * Website: http://www.webman.io/smartcrop
@@ -10,7 +10,7 @@
 *
 ********** */
 
-function smartcrop($file,$saveAs=NULL,$width=100,$height=100)
+function smart_crop($file,$saveAs=NULL,$width=100,$height=100)
 {
 	if (!class_exists('WideImage'))
 		die('"smart_crop" requires "WideImage Library" to be included.');
