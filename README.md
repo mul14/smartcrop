@@ -8,7 +8,7 @@ Info
 
 Version: 1.0    
 Author: Mark Topper [[Facebook]](https://www.facebook.com/marktopper) [[Github]](https://github.com/marktopper) [[Twitter]](https://www.twitter.com/webmanio/)    
-Website: [www.webman.io](https://www.webman.io)
+Website: [www.webman.io](https://www.webman.io/smartcrop)
 
 Usage
 ====================
