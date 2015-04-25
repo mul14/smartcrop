@@ -44,7 +44,7 @@ Instead of using only WideImage to crop and resize your images, which even resiz
 
 | Original Picture | WideImage's Crop | Smart Crop |
 | :-------------: | :-------------: | :-------------: |
-| ![Original Image](http://webman.io/github_resources/marktopper/smartcrop/readme.md/images/original.jpg "Original Image") | ![WideImage's Crop](http://webman.io/github_resources/marktopper/smartcrop/readme.md/images/wideimage-crop.jpg "WideImage's Crop") | ![Smart Crop](http://webman.io/github_resources/marktopper/smartcrop/readme.md/images/smartcrop-crop.jpg "Smart Crop") |
+| ![Original Image](https://webman.io/static-content/original-image.jpg "Original Image") | ![WideImage's Crop](https://webman.io/static-content/wideimage-crop.jpg "WideImage's Crop") | ![Smart Crop](https://webman.io/static-content/smartcrop-crop.jpg "Smart Crop") |
 | size: 300px X 450px | Size: 100px X 100px | size: 100px X 100px |
 
 
