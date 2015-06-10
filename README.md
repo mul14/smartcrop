@@ -11,7 +11,12 @@ Author: Mark Topper [[Facebook]](https://www.facebook.com/marktopper) [[Github]]
 Website: [www.webman.io](https://www.webman.io/smartcrop)   
 Email: [mark@webman.io](mailto:mark@webman.io)
 
-Usage
+Usage (with Composer)
+====================
+
+Simple add `"borter/smartcrop": "1.*"` to the `require`-section in your `composer.json`-file and run `composer update`.
+
+Usage (without Composer)
 ====================
 
 1. Include ["WideImage Library"](http://wideimage.sourceforge.net/)
