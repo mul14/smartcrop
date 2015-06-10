@@ -1,5 +1,6 @@
 {
     "name": "borter/smartcrop",
+    "version": "1.0",
     "description": "Smart Crop is a function helper for WideImage to make easy crop and resize based on the picture size and resolution.",
     "require": {
         "smottt/wideimage": "*"
